@@ -1,0 +1,10 @@
+body{
+    background-color:darkslateblue;
+    color: white;
+    text-align: center;
+}
+nav{
+    background-color: slateblue;
+    padding: 10px;
+    text-align: left;
+}
